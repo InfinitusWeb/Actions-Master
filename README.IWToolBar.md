@@ -7,9 +7,8 @@ Conheça [Scriptcase](https://scriptcase.com.br)
 
 Discussão em [Fórum](https://forum.scriptcase.com.br/)
 
-Grupo [Telegram](https://t.me/joinchat/F1fMxkV3oNu6JVFxfJ1Xqg)
+Grupo [Telegram](https://www.youtube.com/c/HaroldoPassos)
 
-Grupo [WhatsApp](https://chat.whatsapp.com/I3sg8dHFfQqKJYjVgtQkM8)
 
 
 # O que é IWAction Classe PHP?
