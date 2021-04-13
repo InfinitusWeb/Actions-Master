@@ -25,7 +25,7 @@ class IWMailer {
         $this->data = new stdClass();
 
         $this->mail->isSMTP();
-        //$this->mail->isHtml();
+        $this->mail->isHtml();
         $this->mail->setLanguage("pt_br");
 
 
